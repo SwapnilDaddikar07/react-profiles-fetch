@@ -1,0 +1,64 @@
+.container{
+  border: 2px solid #43d7ff;
+  width: 100%;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  background: #28282B;
+}
+
+.photo{
+  width: 30%;
+  border-radius: 50%;
+  margin: 10px;
+  border: 2px solid #43d7ff;
+}
+
+p{
+  font-family: Comic Sans MS;
+  color: #43d7ff;
+}
+
+.more-info{
+  width: 100%;
+  text-align: center;
+  padding-top: 3%;
+  font-size: 3vw;
+}
+
+button {
+  background-color: #43d7ff;
+  color: black;
+  font-style: Comic Sans MS;
+  width: auto;
+  white-space: normal !important;
+  word-wrap: break-word;
+  font-size: 3vw;
+}
+
+hr{
+  width: 50%;
+}
+
+p.gender{
+  text-transform: capitalize;
+}
+
+.loaderContainer{
+  width: 100%;
+  text-align: center;
+  padding-top: 30%;
+  padding-bottom: 30%;
+}
+
+.loaderImage{
+  text-align: center;
+  width: 30%;
+  position: fixed;
+  border-radius: 50%;
+}
+
+.fa{
+  font-size: 6vw;
+  color: white;
+}
