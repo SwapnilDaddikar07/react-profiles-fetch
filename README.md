@@ -2,7 +2,7 @@ React project to fetch random fake profiles.
 Used to understand state management , custom and inbuild hooks.
 
 The project uses a public API to fetch fake profiles - 
-API - https://randomuser.me/api
+API - https://randomuser.me
 
 The code contains the following components
 1. useFetchProfiles (custom hook. calls the API mentioned above to fetch "n" profiles)
